@@ -1,0 +1,28 @@
+{
+  "network": "cardano-mainnet",
+  "networkId": 1,
+  "policyId": "e9ff6e554a9932a8b9c0b94bb4a3241b8b55d572773ff94864746cb8",
+  "decimals": 6,
+  "owner": "addr1q8mhcul6zm5k9ta2e55qfzc5qlt96g2a07pp2tkpzazn8y3jhvm9vt6vmf2f6jmfxwjuulcjdz2g8g43r7tnwx8saulq6400s5",
+  "pOmega": {
+    "assetName": "pOmega",
+    "assetNameHex": "704f6d656761",
+    "unit": "e9ff6e554a9932a8b9c0b94bb4a3241b8b55d572773ff94864746cb8704f6d656761",
+    "fingerprint": "asset1e9sd9ksq4wqck2d86tksnqqmvyet33w4shw32e",
+    "supplyWhole": "100000000000",
+    "mintUnits": "100000000000000000"
+  },
+  "mUSDC": {
+    "assetName": "mUSDC",
+    "assetNameHex": "6d55534443",
+    "unit": "e9ff6e554a9932a8b9c0b94bb4a3241b8b55d572773ff94864746cb86d55534443",
+    "fingerprint": "asset1wh6mf2et7l2gg3fx4va7d7a3jscq6zunf0rc7n",
+    "supplyWhole": "10000000",
+    "mintUnits": "10000000000000"
+  },
+  "mintable": true,
+  "note": "Native assets under one-sig policy. Lace shows raw base units (6 decimals). Predict uses custodial escrow like Solana/TON.",
+  "deployedAt": "2026-08-11T21:02:45.000Z",
+  "txHash": "4037dfd7d089285df9839f46d97ba88f42c5e901ce1653b6896711d75ba2da4d",
+  "explorerPolicy": "https://cardanoscan.io/tokenPolicy/e9ff6e554a9932a8b9c0b94bb4a3241b8b55d572773ff94864746cb8"
+}
